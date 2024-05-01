@@ -1,0 +1,3 @@
+﻿  client.cpp
+C:\Users\keren\OneDrive\Desktop\client\client\client.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  client.vcxproj -> C:\Users\keren\OneDrive\Desktop\client\x64\Debug\client.exe
